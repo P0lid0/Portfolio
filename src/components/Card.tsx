@@ -1,14 +1,12 @@
-import python from '../assets/python-svgrepo-com.svg'
-import sqlite from '../assets/sqlite.svg'
+
 import git from '../assets/git.svg'
-import gorm from '../assets/gorm.svg'
-import fiber from '../assets/fiber.svg'
+
 
 import html from '../assets/hmtl.svg'
 import css from '../assets/css.svg'
 import ts from '../assets/ts.svg'
 import react from '../assets/react.svg'
-import sass from '../assets/sass.svg'
+
 import tailwind from '../assets/tailwind.svg'
 import vite from '../assets/vite.svg'
 
